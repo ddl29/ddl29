@@ -1,30 +1,37 @@
-### Hi there 👋
+# Hi there! / 大家好! / Hola! 👋
 
-I'm a fourth year CS student and science passionate from Mexico. 
+I’m **Daniel Díaz**, a software engineer from 🇲🇽 working on the **Oracle Database Graph (RDF) team** since 2022.  
+💡 My work contributed to a **U.S. patent** for a new Oracle DB RDF feature that speeds up query execution.  
 
-I'm currently learning about Production Engineering on the MLH Fellowship! I'm getting skills on bash scripting, systems maintenance as well as containers.
+---
 
-I'm also starting an internship at Oracle as part of the Graph Database team!
+## 🚀 What I’ve been up to
+- 💻 Full-time dev @ **Oracle Graph DB (RDF)** — mostly **web development** + **graph technologies**  
+- 🧪 Past research: engineered bacteria into a **bioink for glucose monitoring** → 🥈 Silver medal @ **iGEM 2019 (Boston)**  
+- 🏭 MLH Fellowship: learning **Production Engineering** — bash scripting, systems maintenance, and containerized environments  
+- 🐇 Internship @ Kalypso: RabbitMQ + Google Protobuf microservices  
 
-On my past internship at Kalypso, I worked with RabbitMQ and Google Protobuf serialization messages, communicating different containerized microservices.
+---
 
-I like making Android apps as well as videogames and GUI based projects on Unity and Android Studio. I code mostly in Java and two of its flavours like C# and Kotlin, but of course, I can code in Python, C and others too.
+## 🎯 Outside of work
+- 👾 Exploring personal projects: **web apps, AI experiments, and small prototypes**  
+- 🎹 Learning **piano** and **Chinese** to challenge myself mentally  
+- 📚 Love **reading, 🧬 science, and watching a good series**  
+- 🏋️ Building a **gym habit** and enjoying a more relaxed lifestyle after leaving TikTok  
+- 🔄 Forever curious — always learning **new skills, tools, and ideas**  
 
-I was recently working on a Bus Location Tracker App called Electrobus, for use at Tec de Monterrey.
+---
 
-I'm also a former Biotechnology student and researched on synthetically engineered bacteria in form of a bioink capable of monitoring glucose on skin, for which our team was awarded silver medal at iGEM 2019 in Boston.
+## 🛠️ Tech Playground
+- **Languages I use the most:** Java ☕ | JavaScript ⚡ | SQL 🗄️  
+- **Next up to learn:** TypeScript ⚛️ | React 🌐 | Tailwind 🌈 | Svelte | AI/ML tools 🤖  
+- ⚡ Fun fact: I enjoy mixing **math + coding** in small side projects to stretch my brain 🧠  
 
-<!--
-**ddl29/ddl29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+**Graph databases by day 🌐, AI projects by night 🤖**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+📬 Let’s connect!  
+[![LinkedIn](https://www.linkedin.com/in/daniel-diaz-lopez29/)](https://www.linkedin.com/in/daniel-diaz-lopez29/)
